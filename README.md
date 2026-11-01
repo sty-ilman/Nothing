@@ -51,9 +51,6 @@ It's called a blank page.
 **Will it slow down my vault?**
 Not even a little. It does nothing, and it does it instantly.
 
-**What happens if I disable it?**
-Nothing, but with less commitment.
-
 **Can I request a feature?**
 You can, but see the answer to "What does it do?"
 
