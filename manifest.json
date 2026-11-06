@@ -1,9 +1,9 @@
 {
   "id": "nothing",
   "name": "Nothing",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minAppVersion": "0.15.0",
-  "description": "Does nothing. Now with even less.",
+  "description": "Does nothing. Now with even less (dark mode).",
   "author": "sty-ilman",
   "authorUrl": "https://github.com/sty-ilman",
   "isDesktopOnly": false
